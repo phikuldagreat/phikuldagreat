@@ -1,6 +1,4 @@
-## Hello there 👋
-
-#https://youtu.be/lprX1sikslc?si=lN6cEkUzkh4h0yNJ
+https://youtu.be/lprX1sikslc?si=lN6cEkUzkh4h0yNJ
 
 <!--
 **phikuldagreat/phikuldagreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
